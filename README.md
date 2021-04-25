@@ -5,4 +5,4 @@ Screenshots-
 
 
 
-![onthisdays](https://user-images.githubusercontent.com/80831615/116003137-6ba0e880-a61a-11eb-9c27-de40b59b80d5.jpg)
+![onthisdays](https://user-images.githubusercontent.com/80831615/116003137-6ba0e880-a61a-11eb-9c27-de40b59b80d5.jpg width="400" height="790")
